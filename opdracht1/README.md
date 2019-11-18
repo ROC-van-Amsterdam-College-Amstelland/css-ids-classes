@@ -61,7 +61,7 @@ Voor nu gaan we ons alleen bezig houden met Element Selectors en gaan we kijken 
 
 Selector | Spreekt welk(e) HTML element(en) aan 
 ---------| ------------------------------------ 
-* | Alle HTML elementen op een pagina           
+* | Alle HTML elementen op een pagina
 div | alle div elementen op een pagina
 h1, h2 | Alle h1 en h2 elementen op een pagina
 main h1 | Alle h1 elementen die ***in*** het main element zitten
@@ -81,6 +81,7 @@ Maak voor onderstaande taken telkens per taak één CSS regel aan met dus één 
 - [ ] Geef alleen het logo in de footer een border van 1px solid black
 - [ ] Maak van de nav in de header en de ul in die nav een flexbox container: (display:flex;) gebruik 1 CSS regel en Zorg ervoor dat het menu in de footer géén flexbox container wordt.
 - [ ] Geef links van het menu in de header een padding van 20px;
+- [ ] Haal voor beide menu's, in de header en de footer, de bullets weg. Letop, laat de unordered list in de main met rust. (list-style-type: none)
 - [ ] 
 
 
