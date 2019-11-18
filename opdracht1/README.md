@@ -13,6 +13,9 @@ Er is voor speciaal voor jou een css stylesheet gemaakt. Die ga je nu gebruiken.
 
 De knoppen kunnen een paar extra kleurtjes krijgen door simpel weg een class-waarde toe te voegen aan het element.
 
+*Wat leer je nu?*
+Je leert dat je meerdere classes kunt toevoegen aan een element.
+
 #### voorbeeld
 
 Onderstaand voorbeeld laat zien hoe je dat voor de eerste knop (button) kunt doen.
