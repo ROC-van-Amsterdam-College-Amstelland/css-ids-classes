@@ -65,7 +65,7 @@ Voor nu gaan we ons alleen bezig houden met Element Selectors en gaan we kijken 
 
 Selector | Spreekt welk(e) HTML element(en) aan
 ---------| ------------------------------------
-* | Alle HTML elementen op een pagina
+*| Alle HTML elementen op een pagina
 div | alle div elementen op een pagina
 h1, h2 | Alle h1 en h2 elementen op een pagina
 main h1 | Alle h1 elementen die ***in*** het main element zitten
