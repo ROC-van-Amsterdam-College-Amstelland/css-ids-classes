@@ -4,7 +4,7 @@
 
 ### Voorrang stylesheets
 
-Je hebt misschien wel eens gezien dat als je op twee plekken een zelfde CSS property toekent aan eenzelfde HTML element dat de regel die als laatste in het CSS document voorkomt geld.
+Je hebt misschien wel eens gezien dat als je op twee plekken een zelfde CSS property toekent aan eenzelfde HTML element dat de regel die als **laatste** in het CSS document voorkomt geld.
 
 ```CSS
 /* de achtergrondkleur van deze webpagina zal blauw zijn */
